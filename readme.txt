@@ -24,3 +24,4 @@ http://localhost:3001 adresinden API'ye erişebilirsiniz.
 Kullanım
 API'yi kullanarak kullanıcı kaydı oluşturabilir, giriş yapabilir, 
 ToDo listesini alabilir, yeni ToDo ekleyebilir ve ToDo'ları silebilirsiniz.
+API test etmeden önce node_modules zip dosyasını açın.
